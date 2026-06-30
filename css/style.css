@@ -92,7 +92,7 @@ p{margin:0 0 1rem}
 }
 .header .contenedor{display:flex;align-items:center;justify-content:space-between;height:72px;gap:18px}
 .marca{display:flex;align-items:center;gap:10px}
-.marca img{height:40px;width:auto}
+.marca img{height:50px;width:auto}
 .nav{display:flex;align-items:center;gap:26px}
 .nav a{font-weight:600;font-size:.97rem;color:var(--tinta);transition:color .15s}
 .nav a:hover,.nav a.activo{color:var(--crema)}
